@@ -1,7 +1,10 @@
 {
   "name": "pool-management-vue",
   "version": "0.1.0",
-  "repository": "balancer-labs/pool-management-vue",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/heco-balancer/pool-management-vue.git"
+  },
   "license": "GPL-3.0",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -13,7 +16,7 @@
     "generate-icons": "icon-font-generator src/assets/fonts/icons/*.svg -o src/assets/fonts --name iconfont --html false"
   },
   "dependencies": {
-    "@balancer-labs/assets": "github:balancer-labs/assets#master",
+    "@balancer-labs/assets": "github:heco-balancer/assets#master",
     "@ethersproject/abi": "^5.0.1",
     "@ethersproject/address": "^5.0.1",
     "@ethersproject/constants": "^5.0.1",
