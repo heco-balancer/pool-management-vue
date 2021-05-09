@@ -10,7 +10,7 @@
   "addresses": {
     "bFactory": "0xeBfAd5c1D36Aa59fBdE1A70843Cdd6881944BC73",
     "bActions": "0xf9C45da9dA672a0DE034a1415820a91af9722770",
-    "dsProxyRegistry": "0xd9145CCE52D386f254917e481eB44e9943F39138",
+    "dsProxyRegistry": "0x99f1492848CBfaBCF8f62825d5df6F64509B04cc",
     "proxy": "0x981c0C07268991ED14224146FE1CDcA00F908209",
     "crpFactory": "0x9DE39e876e3dd6C8f4cB4c444AB052732E4A7B73",
     "weth": "0x7af326b6351c8a9b8fb8cd205cbe11d4ac5fa836",
